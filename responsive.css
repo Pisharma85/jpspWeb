@@ -1,0 +1,48 @@
+@media only screen and (max-width:800px){
+        
+    .logo{display: flex;
+        justify-content: center;
+        width: 75vw;
+    }
+.hi{
+    font-size: 10px;
+    width: 45vw;
+}
+
+.foot3{display: flex;
+flex-wrap: wrap;
+justify-items: center;}
+
+.p1{display: flex;
+    justify-content: center;
+    
+    font-size: 12px;
+}
+.para{display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 12px;
+
+}
+.container{
+    height: 35vh;
+}
+.dabba{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.book{
+    display: flex;
+justify-content: center;
+flex-direction: row;
+flex-wrap: wrap;
+background-attachment: scroll;
+}
+.FOOTER{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+}
+}

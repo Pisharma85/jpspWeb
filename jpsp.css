@@ -1,0 +1,98 @@
+.body{
+    font-family: 'Mukta', sans-serif;
+}
+.container{display: flex;
+background-color: #006699;
+justify-content: center;
+height: 43vh;
+padding: 25px;
+flex-wrap: wrap;
+}
+.para{
+   color: blanchedalmond;
+}
+
+
+.p1{
+    color: blanchedalmond;
+   padding: 0px;padding-top: 40px;
+    font-weight:  25px;
+    }
+    
+.dabba{
+    display:flex ;
+    justify-content: center;
+   padding-top: 25px;
+   height: 350px;
+   flex-wrap: wrap;
+}
+.box1{
+padding: 15px;
+
+}
+.one{
+    border: none;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color:"#e54a39";
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px; font-weight: 700;height: 65px;
+}
+.two{border: none;
+    padding: 10px;background-color:"#e54a39";
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px; font-weight: 70 ;height: 65px;}
+ .three{border: none;
+    padding: 10px;background-color:"#e54a39";
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px; font-weight: 70;height: 65px;}
+.hi{color: orangered;
+    padding: 0px; width: 325px;
+    text-align: center;
+
+}
+.pk{
+    display: flex;
+    justify-content: center;
+  
+}
+/*.trow{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+*/
+.bu{padding-left: 12px;
+width: 183px;background-color: orangered;}
+.bu1{
+    padding-right: 30px;width: 183px;background-color: orangered;
+}
+
+.p{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 0px;padding-top: 0px;
+line-height: 50px;}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+.pa{
+    padding: 20px
+}
+.book{
+    background-color: #141414;
+    color: #888896;
+display: flex;
+justify-content: center
+
+}
+.FOOTER{text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    background-attachment: scroll;
+
+}
